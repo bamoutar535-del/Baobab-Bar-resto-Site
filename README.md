@@ -1,57 +1,30 @@
-# baobab-bar-site<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Shady's Grill</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin:0; padding:0; }
-    header { background:#c0392b; color:white; text-align:center; padding:20px; }
-    nav { background:#333; padding:10px; text-align:center; }
-    nav a { color:white; margin:0 15px; text-decoration:none; }
-    section { padding:40px; }
-    .menu, .contact { background:#f4f4f4; margin:20px 0; padding:20px; border-radius:8px; }
-    footer { background:#333; color:white; text-align:center; padding:15px; }
-    button { background:#c0392b; color:white; padding:10px 20px; border:none; border-radius:5px; }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Bienvenue chez Shady's Grill</h1>
-    <p>Votre spot idéal pendant les Jeux Olympiques de la Jeunesse 2026</p>
-  </header>
+# Shady's Grill - Restaurant Familial Dakar JO 2026
 
-  <nav>
-    <a href="#menu">Menu</a>
-    <a href="#localisation">Localisation</a>
-    <a href="#contact">Contact</a>
-  </nav>
+## ⭐ Présentation
+Bienvenue chez **Shady’s Grill**, un restaurant familial chaleureux situé sur la **Route de l’Aéroport, en face CBAO (50 mètres après la station Shell)**.  
+Avec une note de **4,6/5 (134 avis)**, Shady’s Grill est reconnu pour sa **cuisine variée et savoureuse** et ses **boissons maison fraîches**.
 
-  <section id="menu" class="menu">
-    <h2>Notre Menu</h2>
-    <ul>
-      <li>🍹 Cocktail Shady’s – 3500 CFA</li>
-      <li>🍔 Burger Spécial Grill – 3000 CFA</li>
-      <li>🥘 Thiéboudienne – 4500 CFA</li>
-    </ul>
-  </section>
+---
 
-  <section id="localisation">
-    <h2>Où nous trouver</h2>
-    <p>📍 Route de l’Aéroport, en face CBAO, 50 m après station Shell</p>
-    <iframe src="https://www.google.com/maps/embed?pb=..." 
-            width="100%" height="300" style="border:0;" allowfullscreen></iframe>
-  </section>
+## 🍽️ Menu
+- Plats sénégalais traditionnels et cuisine internationale
+- Recettes variées et généreuses
+- Boissons maison fraîches et cocktails exclusifs
+- Options disponibles : repas sur place, vente à emporter, livraison
 
-  <section id="contact" class="contact">
-    <h2>Contact & Réservation</h2>
-    <p>📞 +221 77 123 45 67</p>
-    <p>💬 WhatsApp : <a href="https://wa.me/221771234567">Cliquez ici</a></p>
-    <button>Réserver maintenant</button>
-  </section>
+---
 
-  <footer>
-    <p>&copy; 2026 Shady's Grill – Tous droits réservés</p>
-  </footer>
-</body>
-</html>
+## 📌 Informations pratiques
+- 📍 Adresse : Route de l’Aéroport, en face CBAO – 50m après station Shell  
+- 📞 Téléphone : +221 70 007 70 09  
+- 🕒 Horaires : Fermé actuellement · Ouvre à 11h30 (mardi)  
+- 📍 Code Google Maps : PFXR+2H Dakar  
+
+---
+
+## 🎯 Fonctionnalités du site
+- **Présentation bilingue (Français ↔ Anglais)** grâce au widget Google Translate  
+- **Formulaire de réservation en ligne** (nom, téléphone, date, nombre de personnes)  
+- **Bouton WhatsApp direct** pour réserver en un clic :  
+  ```html
+  <a href="https://wa.me/221700077009" target="_blank">📲 Réserver via WhatsApp</a>
