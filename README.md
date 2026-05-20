@@ -7,7 +7,7 @@ Avec une note de **4,6/5 (134 avis)**, Shady’s Grill est reconnu pour sa **cui
 ---
 
 ## 🍽️ Menu
-- Plats sénégalais traditionnels et cuisine internationale
+- Plats libanais traditionnels et cuisine internationale
 - Recettes variées et généreuses
 - Boissons maison fraîches et cocktails exclusifs
 - Options disponibles : repas sur place, vente à emporter, livraison
